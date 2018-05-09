@@ -13,7 +13,7 @@ We need a simple test harness, ideally using a unit testing framework of your ch
 
 Our requirements are expressed as User Stories below.
 
-##User Stories
+## User Stories
 As a coffee shop owner
 I want to understand what the most popular blend of coffee is So I can order accordingly
 
