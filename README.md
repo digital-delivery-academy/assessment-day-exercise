@@ -1,5 +1,4 @@
 # assessment-day-exercise
-DDA Assessment Day 
 
 ## Coding Exercise
 
@@ -29,6 +28,10 @@ So I can understand if I can make more money by charging an additional fee
 
 ## Notes
 • Do not focus on any cosmetics, we’re only interested in the raw data.
-• Do consider both happy paths and sad paths (what happens when something goes wrong). • Submit the finished code via a public GitHub repository (and let us know the URL).
+
+• Do consider both happy paths and sad paths (what happens when something goes wrong).
+
+• Submit the finished code via a public GitHub repository (and let us know the URL).
+
 • Use the programming language that you feel most comfortable in, we don’t mind what you
 code in for this exercise!
